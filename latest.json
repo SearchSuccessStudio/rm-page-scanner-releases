@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/SearchSuccessStudio/rm-page-scanner-releases/raw/main/apk/RM_Page_Scanner_v1.0.0_arm64.apk",
+  "apkUrl32": "https://github.com/SearchSuccessStudio/rm-page-scanner-releases/raw/main/apk/RM_Page_Scanner_v1.0.0_arm32.apk",
+  "notes": "First release."
+}
